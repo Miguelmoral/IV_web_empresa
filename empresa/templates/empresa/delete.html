@@ -1,0 +1,25 @@
+<html>
+  <head>
+      <h1>Borrado empresas</h1>
+  </head>
+
+  <body>
+    <table>
+    <tr>
+      <td><strong><a href="/empresa/principal/">Inicio</a></strong></td>
+      <td><strong>|</strong></td>
+      <td><strong><a href="/empresa/clasificacion/">Clasificación empresas</a></strong></td>
+      <td><strong>|</strong></td>
+      <td><strong><a href="/empresa/delete/">Borrado Empresas</a></strong></td>
+    </tr>
+  </table>
+
+    <h3>Introduzca los datos de la empresa que desea eliminar:</h3>
+    <form method="POST" class="post-form">{% csrf_token %}
+        {{ form.as_p }}
+         <button type="submit" class="delete btn btn-default">Borrar</button>
+   </form>
+ </body>
+
+
+</html>
