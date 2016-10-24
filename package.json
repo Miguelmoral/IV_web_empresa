@@ -1,0 +1,19 @@
+{
+  "name": "miguelmoral",
+  "version": "1.0.0",
+  "description": "Web creación y clasificación de empresas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguelmoral/IV_web_empresa.git"
+  },
+  "author": "miguelmoral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguelmoral/IV_web_empresa/issues"
+  },
+  "homepage": "https://github.com/Miguelmoral/IV_web_empresa#readme"
+}
