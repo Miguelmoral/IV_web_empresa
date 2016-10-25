@@ -1,6 +1,8 @@
 # IV_web_empresa
-Realiazación de una página web de calificación de empresas. Creada con django
+
 [![Build Status](https://travis-ci.org/Miguelmoral/IV_web_empresa.svg?branch=master)](https://travis-ci.org/Miguelmoral/IV_web_empresa)
+
+Realiazación de una página web de calificación de empresas. Creada con django
 
 ## Uso:
 
